@@ -1,0 +1,20 @@
+.root {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 80px 0;
+    border-radius: 5px;
+    color: black;
+    text-align: center;
+  }
+
+.title {
+    margin: 0;
+    font-size: 20vh;
+  }
+
+.subtitle {
+    font-size: 6vh;
+    margin: 0;
+  }
